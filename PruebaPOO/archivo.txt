@@ -1,1 +1,3 @@
 hola como estas
+
+"Estas son las mejoras que hay qyu hacer en el codigo"
